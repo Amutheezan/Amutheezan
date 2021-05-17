@@ -18,7 +18,7 @@
 [![Amutheezans's GitHub stats](https://github-readme-stats.vercel.app/api?username=amutheezan&show_icons=true&theme=radical&count_private=true)](https://github.com/amutheezan/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amutheezan&layout=compact&show_icons=true&theme=radical&count_private=true)](https://github.com/amutheezan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amutheezan&layout=compact&show_icons=true&theme=radical)](https://github.com/amutheezan/github-readme-stats)
 
 
 <!--
