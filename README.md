@@ -15,8 +15,9 @@
 * I graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
 
 
-[![Amutheezans's GitHub stats](https://github-readme-stats.vercel.app/api?username=amutheezan&show_icons=true&theme=radical&count_private=true)](https://github.com/amutheezan/github-readme-stats)
+[![Amutheezan's GitHub stats](https://github-readme-stats.vercel.app/api?username=amutheezan&show_icons=true&theme=radical&count_private=true)](https://github.com/amutheezan/github-readme-stats)
 
+[![Amutheezan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amutheezan)](https://github.com/amutheezan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amutheezan)](https://github.com/amutheezan/github-readme-stats)
 
