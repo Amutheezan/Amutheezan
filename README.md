@@ -1,6 +1,3 @@
-![Metrics](https://github.com/Amutheezan/Amutheezan/blob/master/github-metrics.svg)
-
-
 ### Hi there 👋, I am Amutheezan
 
 * I joined in the Resilient Networks and Systems (**RNS**) Lab as a Ph.D. Student in Fall 2019.
@@ -17,6 +14,8 @@
 
 * I graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
 
+
+![Metrics](https://github.com/Amutheezan/Amutheezan/blob/master/github-metrics.svg)
 
 
 <!--
