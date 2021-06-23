@@ -15,7 +15,7 @@
 * I graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
 
 
-![Metrics](https://github.com/Amutheezan/Amutheezan/blob/master/github-metrics.svg)
+![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
 
 
 <!--
