@@ -2,7 +2,7 @@
 
 * I joined in the Resilient Networks and Systems (**RNS**) Lab as a Ph.D. Student in Fall 2019.
 
-* My research interest is in **Machine Learning** and **Data Mining**. 
+* My research interest is in **Artificial Intelligence** and **Data Mining**. 
 
 #### PREVIOUS WORK EXPERIENCES
 
