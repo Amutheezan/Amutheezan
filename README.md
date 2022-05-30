@@ -1,22 +1,31 @@
-### Hi there 👋, I am Amutheezan
+<a href="https://stackexchange.com/users/6248581"><img src="https://stackexchange.com/users/flair/6248581.png" width="208" height="58" alt="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-* I joined in the Resilient Networks and Systems (**RNS**) Lab as a Ph.D. Student in Fall 2019.
+### Hi there 👋, I am Amutheezan Sivagnanam
 
-* My research interest is in **Artificial Intelligence** and **Data Mining**. 
+#### CURRENT FOCUS
 
-#### PREVIOUS WORK EXPERIENCES
+👯: Joined in the Resilient Networks and Systems (**RNS**) Lab as a **Ph.D. Student** in Fall 2019.
 
-* I worked as Software Engineer in **MillenniumIT Software (PVT) Limited** under **Post-Trade Team** (Jan 2018 - Jul 2019).
+💬: My research interest is in **Artificial Intelligence** and **Data Mining**. 
 
-* I did my internship in **WSO2 Lanka (PVT) Limited** under **Data-Analytics Team** (July 2016 - Dec 2016).
+🔭: Focus on applying AI techniques in the transportation domain.
+
+
+#### PREVIOUS WORK
+
+:computer:: Worked as Software Engineer in **MillenniumIT Software (PVT) Limited** under **Post-Trade Team** (Jan 2018 - Jul 2019).
+
+:computer:: Interned in **WSO2 Lanka (PVT) Limited** under **Data-Analytics Team** (July 2016 - Dec 2016).
 
 #### EDUCATION
 
-* I graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
+:school:: Graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
 
-
-![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
-
+<!-- ![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
+ -->
+ 
+#### CONTACT:
+📫: [amutheezan.siva@gmail.com](mailto:amutheezan.siva@gmail.com)
 
 <!--
 **Amutheezan/Amutheezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
