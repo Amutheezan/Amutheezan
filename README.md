@@ -1,4 +1,4 @@
-<a href="https://stackexchange.com/users/6248581"><img src="https://stackexchange.com/users/flair/6248581.png" width="208" height="58" alt="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<!-- <a href="https://stackexchange.com/users/6248581"><img src="https://stackexchange.com/users/flair/6248581.png" width="208" height="58" alt="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
 ### Hi there 👋, I am Amutheezan Sivagnanam
 
@@ -24,7 +24,7 @@
 <!-- ![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
  -->
  
-#### CONTACT:
+#### CONTACT
 📫: [amutheezan.siva@gmail.com](mailto:amutheezan.siva@gmail.com)
 
 <!--
