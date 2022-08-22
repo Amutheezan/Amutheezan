@@ -19,7 +19,9 @@
 
 #### EDUCATION
 
-:school:: Graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in 2017.
+:school:: Graduated with Masters’s in Computer and Information Sciences from the University of Houston, Houston, TX in Summer 2022.
+
+:school:: Graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in January 2018.
 
 <!-- ![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
  -->
