@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Amutheezan+Sivagnanam)](https://git.io/typing-svg)
 
+
 #### CURRENT FOCUS
 
 👯: Joined in the Resilient Networks and Systems (**RNS**) Lab as a **Ph.D. Student** in Fall 2019.
@@ -24,9 +25,31 @@
 
 <!-- ![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
  -->
- 
+
+
 #### CONTACT
 📫: [amutheezan.siva@gmail.com](mailto:amutheezan.siva@gmail.com)
+
+#### Languages and Tools:
+
+<img align="left" alt="Python" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="C++" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="C" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Keras" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Tensorflow" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="PyTorch" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
 
 <!--
 **Amutheezan/Amutheezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
