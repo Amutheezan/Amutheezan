@@ -1,6 +1,7 @@
 <!-- <a href="https://stackexchange.com/users/6248581"><img src="https://stackexchange.com/users/flair/6248581.png" width="208" height="58" alt="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Amutheezan on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> -->
 
-### Hi there 👋, I am Amutheezan Sivagnanam
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Amutheezan+Sivagnanam)](https://git.io/typing-svg)
+
 
 #### CURRENT FOCUS
 
