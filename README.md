@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Amutheezan+Sivagnanam)](https://git.io/typing-svg)
 
-
 #### CURRENT FOCUS
 
 👯: Joined in the Resilient Networks and Systems (**RNS**) Lab as a **Ph.D. Student** in Fall 2019.
