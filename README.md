@@ -10,7 +10,6 @@
 
 🔭: Focus on applying AI techniques in the transportation domain.
 
-
 #### PREVIOUS WORK
 
 :computer:: Worked as Software Engineer in **MillenniumIT Software (PVT) Limited** under **Post-Trade Team** (Jan 2018 - Jul 2019).
