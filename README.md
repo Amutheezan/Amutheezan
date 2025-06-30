@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Amutheezan+Sivagnanam)](https://git.io/typing-svg)
 
 #### CONTACT
-📫: [amutheezan.psu@gmail.com](mailto:amutheezan.psu@gmail.com), [amutheezan@psu.edu](mailto:amutheezan@psu.edu)
+📫: [amutheezan.psu@gmail.com](mailto:amutheezan.psu@gmail.com)
 
 #### Languages and Tools:
 
@@ -30,19 +30,25 @@
 
 #### CURRENT FOCUS
 
-👯: Joined in the Resilient Networks and Systems (**RNS**) Lab as a **Ph.D. Student** in Fall 2019.
+👯: Joined in the  Applied Artificial Intelligence Lab (**AAI**) Lab as a **Ph.D. Student** in Fall 2019.
 
-💬: My research interest is in **Artificial Intelligence** and **Data Mining**. 
+💬: My research interest is in **Artificial Intelligence**, **Optimization** and **Reinforcement Learning**. 
 
 🔭: Focus on applying AI techniques in the transportation domain.
 
 #### PREVIOUS WORK
+
+:computer:: Worked as Graduate Research Assistant in **Pennsylvania State University** under **Dr. Aron Laszka** (Aug 2022 - May 2025).
+
+:computer:: Worked as Graduate Research Assistant in **University of Houston** under **Dr. Aron Laszka** (Sep 2019 - Aug 2022).
 
 :computer:: Worked as Software Engineer in **MillenniumIT Software (PVT) Limited** under **Post-Trade Team** (Jan 2018 - Jul 2019).
 
 :computer:: Interned in **WSO2 Lanka (PVT) Limited** under **Data-Analytics Team** (July 2016 - Dec 2016).
 
 #### EDUCATION
+
+:school:: Will Graduate with Doctorates’s in Informatics from the Pennsylvania State University, University Park, PA in Summer 2025.
 
 :school:: Graduated with Masters’s in Computer and Information Sciences from the University of Houston, Houston, TX in Summer 2022.
 
