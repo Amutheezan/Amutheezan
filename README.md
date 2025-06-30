@@ -37,7 +37,7 @@
 
 <br>
 
-##### Tools:
+##### CI/CD and Tools:
 
 <img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
