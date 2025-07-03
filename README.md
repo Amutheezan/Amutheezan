@@ -48,8 +48,6 @@
 
 #### CURRENT FOCUS
 
-👯: Joined in the  Applied Artificial Intelligence Lab (**AAI**) Lab as a **Ph.D. Student** in Fall 2019.
-
 💬: My research interest is in **Artificial Intelligence**, **Optimization** and **Reinforcement Learning**. 
 
 🔭: Focus on applying AI techniques in the transportation domain.
