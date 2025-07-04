@@ -70,11 +70,6 @@
 
 :school:: Graduated with Bachelors’s in Computer Science and Engineering from the University of Moratuwa, Srilanka in January 2018.
 
-<!-- ![Metrics](https://github.com/Amutheezan/Amutheezan/blob/main/github-metrics.svg)
- -->
-
-
-
 <!--
 **Amutheezan/Amutheezan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
