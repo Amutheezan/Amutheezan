@@ -64,7 +64,7 @@
 
 #### EDUCATION
 
-:school:: Will Graduate with Doctorates’s in Informatics from the Pennsylvania State University, University Park, PA in Summer 2025.
+:school:: Graduated with Doctorates’s in Informatics from the Pennsylvania State University, University Park, PA in Summer 2025.
 
 :school:: Graduated with Masters’s in Computer and Information Sciences from the University of Houston, Houston, TX in Summer 2022.
 
