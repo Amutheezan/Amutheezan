@@ -52,6 +52,10 @@
 
 🔭: Focus on applying AI techniques in the transportation domain.
 
+#### WORK
+
+:computer:: Working as Post Doctoral Fellow in **University of Houston** (Nov 2025 - Present).
+
 #### PREVIOUS WORK
 
 :computer:: Worked as Graduate Research Assistant in **Pennsylvania State University** under **Dr. Aron Laszka** (Aug 2022 - May 2025).
